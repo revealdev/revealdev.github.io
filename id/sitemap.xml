@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://revealdev.me/id/about/</loc>
+    <loc>https://www.revealdev.me/id/about/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://revealdev.me/about/"
+                href="https://www.revealdev.me/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://revealdev.me/id/about/"
+                href="https://www.revealdev.me/id/about/"
                 />
   </url><url>
-    <loc>https://revealdev.me/id/categories/</loc>
+    <loc>https://www.revealdev.me/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://revealdev.me/categories/"
+                href="https://www.revealdev.me/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://revealdev.me/id/categories/"
+                href="https://www.revealdev.me/id/categories/"
                 />
   </url><url>
-    <loc>https://revealdev.me/id/</loc>
+    <loc>https://www.revealdev.me/id/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://revealdev.me/"
+                href="https://www.revealdev.me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://revealdev.me/id/"
+                href="https://www.revealdev.me/id/"
                 />
   </url><url>
-    <loc>https://revealdev.me/id/tags/</loc>
+    <loc>https://www.revealdev.me/id/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://revealdev.me/tags/"
+                href="https://www.revealdev.me/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://revealdev.me/id/tags/"
+                href="https://www.revealdev.me/id/tags/"
                 />
   </url>
 </urlset>

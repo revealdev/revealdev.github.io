@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reyza&#39;s Blog</title>
-    <link>https://revealdev.me/id/</link>
+    <link>https://www.revealdev.me/id/</link>
     <description>Recent content on Reyza&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://revealdev.me/id/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.revealdev.me/id/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://revealdev.me/id/about/</link>
+      <link>https://www.revealdev.me/id/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://revealdev.me/id/about/</guid>
+      <guid>https://www.revealdev.me/id/about/</guid>
       <description>About Hello!! Gw Reyza, seorang Senior Software Engineer (Backend). Sekarang bekerja di Cermati.com cabang Yogyakarta, secara remote dari Surabaya. Gw berkecimpung di dunia IT secara profesional sejak 2018. Biasanya menggunakan python, nodejs, and golang. Tapi gw terbuka dengan bahasa / framework apa saja, it&amp;rsquo;s just tools afterall
 Gw suka tantangan, melakukan hal yang gw awalnya gak bisa adalah sebuah pengalaman yang menarik
 &amp;ldquo;Make your future self proud&amp;rdquo;

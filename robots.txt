@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://revealdev.me/sitemap.xml
+Sitemap: https://www.revealdev.me/sitemap.xml
